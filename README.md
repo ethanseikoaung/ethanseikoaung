@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aung
 
-<!--
-**ethanseikoaung/ethanseikoaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aerospace engineering student at UC Berkeley passionate about 
+VTOL systems, autonomous drones, and aerodynamics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-005386?style=flat&logo=solidworks&logoColor=white)
+![CATIA](https://img.shields.io/badge/-CATIA-1F6B3A?style=flat&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?style=flat&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aungkozin1)
+
+## Badges
+
+[![3D Innovator - CATIA Associate](https://images.credly.com/size/220x220/images/e511b297-816e-4b6f-8391-624775610bdb/3DX-CAT-CDX.png)](https://www.credly.com/badges/a1494914-7e7b-4ebf-9d9f-81aeec20c14f/public_url)
