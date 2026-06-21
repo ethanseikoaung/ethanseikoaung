@@ -8,7 +8,7 @@ VTOL systems, autonomous drones, and aerodynamics.
 ## Tech Stack
 
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-005386?style=flat&logo=solidworks&logoColor=white)
-![CATIA](https://img.shields.io/badge/-CATIA-1F6B3A?style=flat&logoColor=white)
+![3DEXPERIENCE CATIA](https://img.shields.io/badge/-CATIA-1F6B3A?style=flat&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?style=flat&logo=mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
