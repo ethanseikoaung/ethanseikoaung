@@ -21,3 +21,5 @@ VTOL systems, autonomous drones, and aerodynamics.
 ## Badges
 
 [![3D Innovator - CATIA Associate](https://images.credly.com/size/220x220/images/e511b297-816e-4b6f-8391-624775610bdb/3DX-CAT-CDX.png)](https://www.credly.com/badges/a1494914-7e7b-4ebf-9d9f-81aeec20c14f/public_url)
+
+[![CSWA](https://images.credly.com/size/160x160/images/7329299d-32ce-48ed-8527-b6db73f7e224/blob)](https://www.credly.com/badges/0e0d8c21-5470-4fa6-acbb-d2ca6e8711d9/public_url)
