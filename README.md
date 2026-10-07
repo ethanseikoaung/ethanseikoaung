@@ -17,5 +17,5 @@
 
 ## Badges
 
-<img src="https://images.credly.com/images/e511b297-816e-4b6f-8391-624775610bdb/3DX-CAT-CDX.png" alt="3DEXPERIENCE 3D Innovator" width="300">
-[![CSWA](https://images.credly.com/size/160x160/images/7329299d-32ce-48ed-8527-b6db73f7e224/blob)](https://www.credly.com/badges/0e0d8c21-5470-4fa6-acbb-d2ca6e8711d9/public_url)
+<img src="https://images.credly.com/images/e511b297-816e-4b6f-8391-624775610bdb/3DX-CAT-CDX.png" alt="3DEXPERIENCE 3D Innovator" width="200"><img src="https://images.credly.com/images/7329299d-32ce-48ed-8527-b6db73f7e224/blob" alt="CSWA" width="200">
+
