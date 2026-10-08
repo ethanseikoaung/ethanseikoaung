@@ -1,7 +1,7 @@
-### Hello!!
+## Hello!!
 
-My name is Aung. I am a junior in Aerospace Engineering at the University of California, Berkeley. (Go Bears!)
-My current interests are in aerostructures, aerodynamics, and aircraft design optimization. 
+###My name is Aung. I am a junior in Aerospace Engineering at the University of California, Berkeley. (Go Bears!)
+###My current interests are in aerostructures, aerodynamics, and aircraft design optimization. 
 ---
 
 ## Tech Stack
