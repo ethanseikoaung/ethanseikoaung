@@ -23,5 +23,3 @@ Welcome to my GitHub portfolio! My name is Aung. I’m a rising junior aerospace
 ## Badges
 
 <img src="https://images.credly.com/images/e511b297-816e-4b6f-8391-624775610bdb/3DX-CAT-CDX.png" alt="3DEXPERIENCE 3D Innovator" width="150"><img src="https://images.credly.com/images/7329299d-32ce-48ed-8527-b6db73f7e224/blob" alt="CSWA" width="150">
-
-D
