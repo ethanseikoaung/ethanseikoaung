@@ -17,8 +17,8 @@ Welcome to my GitHub portfolio! My name is Aung. I’m a rising junior aerospace
 
 ## Connect with me
 
-[LinkedIn]<i class="fa-brands fa-square-linkedin"></i>(https://linkedin.com/in/aungkozin1)
-[Email]<i class="fa-brands fa-square-linkedin"></i>(mailto:aungkozin@berkeley.edu)
+[<i class="fa-brands fa-linkedin"></i> LinkedIn](https://linkedin.com/in/aungkozin1)
+[<i class="fa-solid fa-envelope"></i> Email](mailto:aungkozin@berkeley.edu)
 
 ## Badges
 
