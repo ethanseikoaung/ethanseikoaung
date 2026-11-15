@@ -13,11 +13,6 @@ Welcome to my GitHub portfolio! My name is Aung. I’m a rising junior aerospace
 | **Prototyping & Manufacturing** | 3D printing, laser cutting & engraving |
 | **Aerodynamic Analysis** | XFLR5, flow5 |
 
-CAD: SolidWorks, Fusion 360, 3DEXPERIENCE CATIA
-Programming & Data Analysis: MATLAB, Python
-Prototyping & Manufacturing: 3D Printing, Laser engraving/cutting
-Analysis Tools: XFLR5, flow5
-
 ---
 
 ## Connect with me
