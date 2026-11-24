@@ -16,11 +16,9 @@ Welcome to my GitHub portfolio! My name is Aung. I’m a rising junior aerospace
 ---
 
 ## Connect with me
+[![LinkedIn](https://jsdelivr.net)](https://linkedin.com)
 
-Here are my contact links:
 
-[LinkedIn](https://linkedin.com)
-[Email](mailto:aungkozin@berkeley.edu)
 
 ## Badges
 
