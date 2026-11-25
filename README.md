@@ -4,6 +4,10 @@ Welcome to my GitHub portfolio! My name is [Aung Ko Zin](www.linkedin.com/in/aun
 
 ---
 
+## Featured Projects
+[Cal Aerospace SAE Biplane Vertical Stabilizer Design](https://github.com/ethanseikoaung/vertical-stabilizer-spar-optimizer)
+[Wind Tunnel Data Analysis](https://github.com/ethanseikoaung/wind_tunnel_testing_and_data_analysis)
+
 ## Tech Stack
 
 | Area | Tools |
@@ -18,7 +22,7 @@ Welcome to my GitHub portfolio! My name is [Aung Ko Zin](www.linkedin.com/in/aun
 ## Connect with me
 
 Email: [aungkozin@berkeley.edu](aungkozin@berkeley.edu)
-
+LinkedIn: [linkedin.com/in/aungkozin1](www.linkedin.com/in/aungkozin1)
 
 ## Badges
 
